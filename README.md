@@ -1,5 +1,7 @@
 # TheWarZone
 自己开发的战争之地游戏，供大家学习参考。
+## 使用方法
+下载后运行"/WarZone/Assets/_FrankGame/Scenes/main"
 ## 玩家操作
 方向键控制移动，空格键开火，可以长按控制攻击距离。
 ## 关卡
